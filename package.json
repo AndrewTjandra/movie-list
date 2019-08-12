@@ -10,8 +10,9 @@
     ]
   },
   "scripts": {
+    "start": "live-server",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "react-dev": "webpack -d --watch"
+    "build": "webpack -d --watch"
   },
   "repository": {
     "type": "git",
@@ -43,7 +44,7 @@
     "nodemon": "^1.18.9",
     "request": "^2.88.0",
     "style-loader": "^0.23.1",
-    "webpack": "^4.29.0",
+    "webpack": "^4.39.1",
     "webpack-cli": "^3.2.1"
   }
 }

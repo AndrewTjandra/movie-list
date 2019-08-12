@@ -1,0 +1,15 @@
+body {
+  width: 50%;
+}
+
+h1 {
+  background-color: #c2c2c294;
+  padding: 20px;
+}
+
+.movieEntry {
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin: 10px 0px;
+  padding: 20px;
+}
