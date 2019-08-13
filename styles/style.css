@@ -7,6 +7,19 @@ h1 {
   padding: 20px;
 }
 
+.search {
+  background-color: lightgray;
+}
+
+.search input {
+  font-size: 16px;
+  margin: 0px 20px 5px 5px;
+}
+
+.search h4 {
+  margin: 5px 0px 0px 5px;
+}
+
 .movieEntry {
   border: 1px solid gray;
   border-radius: 10px;
